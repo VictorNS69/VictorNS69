@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there! 👋
 
-<!--
-**VictorNS69/VictorNS69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+</p>
+<h3>You can follow me on</h3>
+<p align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://twitter.com/intent/follow?screen_name=VictorNS69">
+        <img src="https://img.shields.io/twitter/follow/VictorNS69?style=social&logo=twitter"
+            alt="follow on Twitter"></a>
+    <a href="https://hackerone.com/0xwlf">
+        <img src="https://img.shields.io/static/v1?label=&message=HackerOne&color=black&logo=hackerone"
+            alt="HackerOne profile"></a>
+  <a href="https://www.linkedin.com/in/victor-nieves-s%C3%A1nchez/">
+        <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue&logo=linkedin"
+            alt="follow on Linkedin"></a>
+</p>
