@@ -19,6 +19,6 @@ I'm currently working as a blockchain developer and starting in the world of cyb
         <img src="https://img.shields.io/static/v1?label=&message=GitHub&color=black&logo=github"
             alt="my GitHub"></a>
   <a href="https://gist.github.com/VictorNS69">
-        <img src="https://img.shields.io/static/v1?label=&message=Gists&color=grey&logo=github"
+        <img src="https://img.shields.io/static/v1?label=&message=Gist&color=grey&logo=github"
             alt="my gists"></a>
 </p>
