@@ -22,3 +22,4 @@ I'm currently working as a blockchain developer and starting in the world of cyb
         <img src="https://img.shields.io/static/v1?label=&message=Gist&color=grey&logo=github"
             alt="my gists"></a>
 </p>
+<img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="480" height="270"/>
