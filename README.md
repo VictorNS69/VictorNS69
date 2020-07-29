@@ -26,11 +26,13 @@ I'm currently working as a blockchain developer and starting in the world of cyb
 
 ### Languages and Tools:
 
-*NOTE: **Top languages does not indicate my skill level** or something like that, it's a GitHub metric of which languages I have the most code on GitHub, automatically generated with [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).*
+*NOTE: **Most Used Languages does not indicate my skill level** or something like that, it's a GitHub metric of which languages I have the most code on GitHub, automatically generated with [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).*
 
 <a href="#" onclick="return false;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorns69&theme=tokyonight&count_private=true&hide_rank=true&hide=Jupyter Notebook" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorns69&theme=tokyonight&count_private=true&hide=Jupyter Notebook" />
 </a>
 <a href="#" onclick="return false;">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=victorns69&show_icons=true&theme=tokyonight&line_height=27&count_private=true&hide_rank=true" alt="VictorNS69's github stats" />
 </a>
+
+<!--iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?VictorNS69" frameborder="0"></iframe-->
