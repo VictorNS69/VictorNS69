@@ -32,7 +32,7 @@ I'm currently working as a blockchain developer and starting in the world of cyb
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorns69&theme=tokyonight&count_private=true&hide=jupyter%20notebook,asp,css&langs_count=10" />
 </a>
 <a href="#" onclick="return false;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=victorns69&show_icons=true&theme=tokyonight&line_height=27&count_private=true&hide_rank=true" alt="VictorNS69's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=victorns69&show_icons=true&theme=tokyonight&line_height=27&count_private=true&hide_rank=true&include_all_commits=true" alt="VictorNS69's github stats" />
 </a>
 
 <!--iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?VictorNS69" frameborder="0"></iframe-->
