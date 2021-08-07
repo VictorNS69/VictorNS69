@@ -12,6 +12,9 @@ I'm currently working as a blockchain developer and starting in the world of cyb
     <a href="https://hackerone.com/victorns69">
         <img src="https://img.shields.io/static/v1?label=&message=HackerOne&color=black&logo=hackerone"
             alt="HackerOne profile"></a>
+   <a href="https://app.hackthebox.eu/users/359400">
+        <img src="https://img.shields.io/static/v1?label=&message=Hack%20The%20Box&color=black&logo=hackthebox"
+            alt="Hack the box profile"></a>
   <a href="https://www.linkedin.com/in/victor-nieves-s%C3%A1nchez/">
         <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=blue&logo=linkedin"
             alt="follow on Linkedin"></a>
