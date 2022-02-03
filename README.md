@@ -1,7 +1,7 @@
 ## Hi there! 👋
-I'm Victor Nieves and I love :computer: and programming. 
+I'm Victor Nieves and I love :computer:, programming and hacking. 
 
-I'm currently working as a blockchain developer and starting in the world of cybersecurity :smile:
+I'm I used to work with blockchain technologies, now I'm a security analyst :smile:
 
 </p>
 <h3>You can find me on</h3>
@@ -32,7 +32,7 @@ I'm currently working as a blockchain developer and starting in the world of cyb
 *NOTE: **Most Used Languages does not indicate my skill level** or something like that, it's a GitHub metric of which languages I have the most code on GitHub, automatically generated with [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).*
 
 <a href="#" onclick="return false;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorns69&theme=tokyonight&count_private=true&hide=jupyter%20notebook,asp,css&langs_count=10" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorns69&theme=tokyonight&count_private=true&hide=jupyter%20notebook,asp,css&langs_count=6" />
 </a>
 <a href="#" onclick="return false;">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=victorns69&show_icons=true&theme=tokyonight&line_height=27&count_private=true&hide_rank=true&include_all_commits=true" alt="VictorNS69's github stats" />
