@@ -1,7 +1,7 @@
 ## Hi there! 👋
-I'm Victor Nieves and I love :computer:, programming and hacking. 
+I'm Victor and I love :computer:, programming and hacking. 
 
-I'm I used to work with blockchain technologies, now I'm a security analyst :smile:
+I used to work with blockchain technologies, now I'm a security analyst :smile:
 
 </p>
 <h3>You can find me on</h3>
