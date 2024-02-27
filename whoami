@@ -1,0 +1,36 @@
+#! /usr/bin/env bash
+
+RED="31"
+GREEN="32"
+GREEN2="\e[32m"
+BOLDGREEN="\e[1;${GREEN}m"
+ITALICRED="\e[3;${RED}m"
+ENDCOLOR="\e[0m"
+
+echo -e "${GREEN2}
+ █     █░ ██░ ██  ▒█████   ▄▄▄       ███▄ ▄███▓ ██▓
+▓█░ █ ░█░▓██░ ██▒▒██▒  ██▒▒████▄    ▓██▒▀█▀ ██▒▓██▒
+▒█░ █ ░█ ▒██▀▀██░▒██░  ██▒▒██  ▀█▄  ▓██    ▓██░▒██▒
+░█░ █ ░█ ░▓█ ░██ ▒██   ██░░██▄▄▄▄██ ▒██    ▒██ ░██░
+░░██▒██▓ ░▓█▒░██▓░ ████▓▒░ ▓█   ▓██▒▒██▒   ░██▒░██░
+░ ▓░▒ ▒   ▒ ░░▒░▒░ ▒░▒░▒░  ▒▒   ▓▒█░░ ▒░   ░  ░░▓  
+  ▒ ░ ░   ▒ ░▒░ ░  ░ ▒ ▒░   ▒   ▒▒ ░░  ░      ░ ▒ ░
+  ░   ░   ░  ░░ ░░ ░ ░ ▒    ░   ▒   ░      ░    ▒ ░
+    ░     ░  ░  ░    ░ ░        ░  ░       ░    ░  ${ENDCOLOR}
+"
+
+echo -e "${ITALICRED}Name:${ENDCOLOR}"
+echo -e "${BOLDGREEN}\tVíctor Nieves Sánchez${ENDCOLOR}"
+
+echo -e "${ITALICRED}Location:${ENDCOLOR}"
+echo -e "${BOLDGREEN}\tMadrid, Spain${ENDCOLOR}"
+
+echo -e "${ITALICRED}Company:${ENDCOLOR}"
+echo -e "${BOLDGREEN}\tInetum${ENDCOLOR}"
+
+echo -e "${ITALICRED}Job:${ENDCOLOR}"
+echo -e "${BOLDGREEN}\tSenior Security Analyst${ENDCOLOR}"
+
+echo -e "${ITALICRED}Contact:${ENDCOLOR}"
+echo -e "${BOLDGREEN}\tMail: victor.nieves@inetum.com${ENDCOLOR}"
+echo -e "${BOLDGREEN}\tLinkedIn: https://www.linkedin.com/in/victor-nieves-sánchez${ENDCOLOR}"
