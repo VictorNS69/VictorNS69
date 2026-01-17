@@ -1,15 +1,13 @@
 ## Hi there! 👋
-I'm Victor and I love :computer:, programming and hacking. 
-
-I used to work with blockchain technologies, now I'm a security analyst :smile:
+I'm Victor and I love hacking, programming my sh**s, and procrastinating.
 
 </p>
 <h3>You can find me on</h3>
 <p align="center">
-  <a href="https://twitter.com/intent/follow?screen_name=VictorNS69">
+  <a href="https://x.com/intent/follow?screen_name=VictorNS69">
         <img src="https://img.shields.io/twitter/follow/VictorNS69?style=social&logo=twitter"
             alt="follow on Twitter"></a>
-    <a href="https://hackerone.com/victorns69">
+    <a href="https://hackerone.com/bit0r">
         <img src="https://img.shields.io/static/v1?label=&message=HackerOne&color=black&logo=hackerone"
             alt="HackerOne profile"></a>
    <a href="https://app.hackthebox.eu/users/359400">
@@ -25,17 +23,9 @@ I used to work with blockchain technologies, now I'm a security analyst :smile:
         <img src="https://img.shields.io/static/v1?label=&message=Gist&color=grey&logo=github"
             alt="my gists"></a>
 </p>
-<!--img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="480" height="270"/-->
 
-### Languages and Tools:
+![](https://github.com/VictorNS69/VictorNS69/blob/master/src/60fps_parrot.gif)
 
-*NOTE: **Most Used Languages does not indicate my skill level** or something like that, it's a GitHub metric of which languages I have the most code on GitHub, automatically generated with [github-readme-stats](https://github.com/anuraghazra/github-readme-stats).*
 
-<a href="#" onclick="return false;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorns69&theme=tokyonight&count_private=true&hide=jupyter%20notebook,asp,css&langs_count=6" />
-</a>
-<a href="#" onclick="return false;">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=victorns69&show_icons=true&theme=tokyonight&line_height=27&count_private=true&hide_rank=true&include_all_commits=true" alt="VictorNS69's github stats" />
-</a>
 
-<!--iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?VictorNS69" frameborder="0"></iframe-->
+![meme](https://github.com/VictorNS69/VictorNS69/blob/master/src/ayyyylmao.jpeg)
